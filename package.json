@@ -1,0 +1,11 @@
+{
+  "name": "runcli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:wuz/runcli.git",
+  "author": "Conlin Durbin <conlin@lessonly.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "cssnano": "^4.1.10"
+  }
+}
