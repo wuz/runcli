@@ -21,3 +21,10 @@ body {
   margin-bottom: 32px;
   white-space: pre-wrap;
 }
+
+a {
+  color: #eff0f6;
+  &:visited {
+    color: #eff0f6;
+  }
+}
